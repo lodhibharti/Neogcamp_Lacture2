@@ -1,2 +1,2 @@
 # Neogcamp_Lacture2
- This is practice website
+Hey!! welcome to my portfolio. its coming soon when i learn HTML and CSS.
